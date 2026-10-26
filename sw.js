@@ -1,4 +1,4 @@
-const CACHE_NAME = 'qingying-diary-cache-v5';
+const CACHE_NAME = 'qingying-diary-cache-v6';
 const CACHE_PREFIX = 'qingying-diary-cache-';
 const ASSETS = ['./', './index.html', './cloud-client.js', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png'];
 
